@@ -1,0 +1,11 @@
+xfreerdp
+sudo apt install neo4j
+sudo neo4j console
+sudo apt install bloodhound
+sudo apt install rlwrap
+sudo gunzip rockyou.txt.gz 
+sudo apt install seclists
+sudo apt install docker.io -y
+sudo apt install steghide -y
+sudo apt install cupp -y
+sudo apt install feroxbuster -y
