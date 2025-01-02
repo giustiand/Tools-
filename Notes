@@ -10,3 +10,4 @@ sudo apt install steghide -y
 sudo apt install cupp -y
 sudo apt install feroxbuster -y
 sudo apt install gobuster -y
+sudo apt install stegseek
